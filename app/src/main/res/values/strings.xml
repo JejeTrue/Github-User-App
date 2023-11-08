@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GithubJJ</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repositories:</string>
+    <string name="follower">followers </string>
+    <string name="following">following</string>
+    <string name="value">99</string>
+
+    <string name="detail_user">Detail User</string>
+    <string name="not_found">Not Found</string>
+    <string name="account">Akun GitHub</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="test_name">Testing name user</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="value_followers">100</string>
+    <string name="followers">Followers</string>
+    <string name="value_following">100</string>
+    <string name="followings">Followings</string>
+    <string name="tablayout">tabLayout</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tv_username">Username</string>
+</resources>
